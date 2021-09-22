@@ -1,5 +1,4 @@
 
-
   
 const welcomeMessage = "Welcome to IBM Cloud DevOps using containers. Let\'s go use the Continuous Delivery Service";
 const portMessage = "Application Running on port";
